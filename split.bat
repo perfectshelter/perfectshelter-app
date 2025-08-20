@@ -48,9 +48,9 @@ set "counter=0"
 :check_file
 if exist "%destination_folder%\%filename%" (
     if %counter% equ 0 (
-        set "filename=eBroker %current_date%.apk"
+        set "filename=Perfectshelter %current_date%.apk"
     ) else (
-        set "filename=eBroker %current_date% (%counter%).apk"
+        set "filename=Perfectshelter %current_date% (%counter%).apk"
     )
     set /a counter+=1
     goto :check_file

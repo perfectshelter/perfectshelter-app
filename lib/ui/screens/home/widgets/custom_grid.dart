@@ -1,7 +1,7 @@
-import 'package:ebroker/data/cubits/property/fetch_city_property_list.dart';
-import 'package:ebroker/data/model/city_model.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/home/city_properties_screen.dart';
+import 'package:perfectshelter/data/cubits/property/fetch_city_property_list.dart';
+import 'package:perfectshelter/data/model/city_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/home/city_properties_screen.dart';
 import 'package:flutter/material.dart';
 
 class CustomImageGrid extends StatelessWidget {

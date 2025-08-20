@@ -1,5 +1,5 @@
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/price_format.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/utils/price_format.dart';
 import 'package:flutter/material.dart';
 
 class PropertyHeader extends StatelessWidget {

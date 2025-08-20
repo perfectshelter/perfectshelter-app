@@ -1,7 +1,7 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/model/home_page_data_model.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/home_page_data_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 class HomeScreenDataRepository {
   Future<({HomePageDataModel homepageDataModel})> fetchAllHomePageData() async {

@@ -1,9 +1,9 @@
-import 'package:ebroker/ui/screens/widgets/video_view_screen.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
-import 'package:ebroker/utils/custom_appbar.dart';
-import 'package:ebroker/utils/custom_image.dart';
-import 'package:ebroker/utils/responsive_size.dart';
-import 'package:ebroker/utils/ui_utils.dart';
+import 'package:perfectshelter/ui/screens/widgets/video_view_screen.dart';
+import 'package:perfectshelter/utils/Extensions/extensions.dart';
+import 'package:perfectshelter/utils/custom_appbar.dart';
+import 'package:perfectshelter/utils/custom_image.dart';
+import 'package:perfectshelter/utils/responsive_size.dart';
+import 'package:perfectshelter/utils/ui_utils.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

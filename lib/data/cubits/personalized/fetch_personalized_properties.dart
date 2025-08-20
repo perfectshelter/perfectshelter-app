@@ -1,8 +1,8 @@
-import 'package:ebroker/data/model/property_model.dart';
-import 'package:ebroker/data/repositories/personalized_feed_repository.dart';
-import 'package:ebroker/settings.dart';
-import 'package:ebroker/ui/screens/proprties/view_all.dart';
-import 'package:ebroker/utils/network/network_availability.dart';
+import 'package:perfectshelter/data/model/property_model.dart';
+import 'package:perfectshelter/data/repositories/personalized_feed_repository.dart';
+import 'package:perfectshelter/settings.dart';
+import 'package:perfectshelter/ui/screens/proprties/view_all.dart';
+import 'package:perfectshelter/utils/network/network_availability.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class FetchPersonalizedPropertyListState {}

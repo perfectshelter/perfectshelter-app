@@ -1,5 +1,5 @@
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/proprties/widgets/google_map_screen.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/proprties/widgets/google_map_screen.dart';
 import 'package:flutter/material.dart';
 
 class PropertyLocationSection extends StatelessWidget {

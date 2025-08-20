@@ -1,11 +1,11 @@
 import 'package:dio/dio.dart';
-import 'package:ebroker/utils/constant.dart';
-import 'package:ebroker/utils/curl_logger.dart';
-import 'package:ebroker/utils/error_filter.dart';
-import 'package:ebroker/utils/guest_checker.dart';
-import 'package:ebroker/utils/hive_keys.dart';
-import 'package:ebroker/utils/hive_utils.dart';
-import 'package:ebroker/utils/network/interseptors/network_request_interseptor.dart';
+import 'package:perfectshelter/utils/constant.dart';
+import 'package:perfectshelter/utils/curl_logger.dart';
+import 'package:perfectshelter/utils/error_filter.dart';
+import 'package:perfectshelter/utils/guest_checker.dart';
+import 'package:perfectshelter/utils/hive_keys.dart';
+import 'package:perfectshelter/utils/hive_utils.dart';
+import 'package:perfectshelter/utils/network/interseptors/network_request_interseptor.dart';
 import 'package:hive/hive.dart';
 
 /// Optimized API client with better structure and performance

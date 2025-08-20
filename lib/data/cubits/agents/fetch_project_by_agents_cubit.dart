@@ -1,6 +1,6 @@
-import 'package:ebroker/data/model/project_model.dart';
-import 'package:ebroker/data/repositories/project_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/project_model.dart';
+import 'package:perfectshelter/data/repositories/project_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 class FetchProjectByAgentCubit extends Cubit<FetchProjectByAgentState> {
   FetchProjectByAgentCubit() : super(FetchProjectByAgentInitial());

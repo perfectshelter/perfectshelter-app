@@ -1,7 +1,7 @@
-import 'package:ebroker/data/cubits/property/fetch_city_property_list.dart';
-import 'package:ebroker/data/helper/filter.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/home/widgets/custom_refresh_indicator.dart';
+import 'package:perfectshelter/data/cubits/property/fetch_city_property_list.dart';
+import 'package:perfectshelter/data/helper/filter.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/home/widgets/custom_refresh_indicator.dart';
 import 'package:flutter/material.dart';
 
 class CityPropertiesScreen extends StatefulWidget {

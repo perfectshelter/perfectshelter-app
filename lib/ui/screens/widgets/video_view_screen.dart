@@ -1,5 +1,5 @@
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/widgets/youtube_player_widget.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/widgets/youtube_player_widget.dart';
 import 'package:flutter/material.dart';
 
 class VideoViewScreen extends StatelessWidget {

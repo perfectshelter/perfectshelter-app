@@ -1,4 +1,4 @@
-import 'package:ebroker/utils/ui_utils.dart';
+import 'package:perfectshelter/utils/ui_utils.dart';
 import 'package:flutter/material.dart';
 
 class ReadMoreText extends StatefulWidget {

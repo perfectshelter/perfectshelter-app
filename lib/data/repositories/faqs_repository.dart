@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/faqs_model.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/faqs_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 class FaqsRepository {
   Future<DataOutput<FaqsModel>> fetchAllFaqs({

@@ -1,5 +1,5 @@
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/proprties/view_all.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/proprties/view_all.dart';
 
 abstract class FetchCityPropertyListState {}
 

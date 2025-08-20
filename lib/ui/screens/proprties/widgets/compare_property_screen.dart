@@ -1,10 +1,10 @@
-import 'package:ebroker/data/model/compare_property_model.dart';
-import 'package:ebroker/data/model/property_model.dart';
-import 'package:ebroker/settings.dart';
-import 'package:ebroker/ui/screens/home/widgets/property_card_big.dart';
-import 'package:ebroker/utils/custom_appbar.dart';
-import 'package:ebroker/utils/extensions/extensions.dart';
-import 'package:ebroker/utils/extensions/lib/custom_text.dart';
+import 'package:perfectshelter/data/model/compare_property_model.dart';
+import 'package:perfectshelter/data/model/property_model.dart';
+import 'package:perfectshelter/settings.dart';
+import 'package:perfectshelter/ui/screens/home/widgets/property_card_big.dart';
+import 'package:perfectshelter/utils/custom_appbar.dart';
+import 'package:perfectshelter/utils/extensions/extensions.dart';
+import 'package:perfectshelter/utils/extensions/lib/custom_text.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

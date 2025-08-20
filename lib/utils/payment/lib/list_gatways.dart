@@ -1,9 +1,9 @@
-import 'package:ebroker/utils/payment/gatways/flutterwave_pay.dart';
-import 'package:ebroker/utils/payment/gatways/paypal_pay.dart';
-import 'package:ebroker/utils/payment/gatways/paystack_pay.dart';
-import 'package:ebroker/utils/payment/gatways/razorpay_pay.dart';
-import 'package:ebroker/utils/payment/gatways/stripe_pay.dart';
-import 'package:ebroker/utils/payment/lib/gatway.dart';
+import 'package:perfectshelter/utils/payment/gatways/flutterwave_pay.dart';
+import 'package:perfectshelter/utils/payment/gatways/paypal_pay.dart';
+import 'package:perfectshelter/utils/payment/gatways/paystack_pay.dart';
+import 'package:perfectshelter/utils/payment/gatways/razorpay_pay.dart';
+import 'package:perfectshelter/utils/payment/gatways/stripe_pay.dart';
+import 'package:perfectshelter/utils/payment/lib/gatway.dart';
 
 List<Gatway> gatways = [
   Gatway(key: 'stripe', instance: Stripe()),

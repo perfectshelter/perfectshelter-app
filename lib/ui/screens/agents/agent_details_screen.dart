@@ -1,12 +1,12 @@
-import 'package:ebroker/data/cubits/agents/fetch_project_by_agents_cubit.dart';
-import 'package:ebroker/data/cubits/agents/fetch_projects_cubit.dart';
-import 'package:ebroker/data/cubits/agents/fetch_property_by_agent_cubit.dart';
-import 'package:ebroker/data/cubits/agents/fetch_property_cubit.dart';
-import 'package:ebroker/data/model/agent/agents_properties_models/customer_data.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/agents/agent_properties.dart';
-import 'package:ebroker/ui/screens/agents/agents_projects.dart';
-import 'package:ebroker/ui/screens/widgets/read_more_text.dart';
+import 'package:perfectshelter/data/cubits/agents/fetch_project_by_agents_cubit.dart';
+import 'package:perfectshelter/data/cubits/agents/fetch_projects_cubit.dart';
+import 'package:perfectshelter/data/cubits/agents/fetch_property_by_agent_cubit.dart';
+import 'package:perfectshelter/data/cubits/agents/fetch_property_cubit.dart';
+import 'package:perfectshelter/data/model/agent/agents_properties_models/customer_data.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/agents/agent_properties.dart';
+import 'package:perfectshelter/ui/screens/agents/agents_projects.dart';
+import 'package:perfectshelter/ui/screens/widgets/read_more_text.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 

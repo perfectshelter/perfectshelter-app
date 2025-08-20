@@ -1,4 +1,4 @@
-import 'package:ebroker/utils/extensions/lib/list.dart';
+import 'package:perfectshelter/utils/extensions/lib/list.dart';
 
 class PersonalizedInterestSettings {
   PersonalizedInterestSettings({

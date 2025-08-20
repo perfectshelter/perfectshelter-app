@@ -1,6 +1,6 @@
-import 'package:ebroker/data/model/mortgage_calculator_model.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/price_format.dart';
+import 'package:perfectshelter/data/model/mortgage_calculator_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/utils/price_format.dart';
 import 'package:flutter/material.dart';
 
 class YearlyBreakdownScreen extends StatefulWidget {

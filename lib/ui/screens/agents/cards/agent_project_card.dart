@@ -1,21 +1,21 @@
 import 'dart:async';
 
-import 'package:ebroker/app/routes.dart';
-import 'package:ebroker/data/helper/widgets.dart';
-import 'package:ebroker/data/model/agent/agents_properties_models/project_data.dart';
-import 'package:ebroker/data/repositories/check_package.dart';
-import 'package:ebroker/data/repositories/project_repository.dart';
-import 'package:ebroker/ui/screens/widgets/blurred_dialoge_box.dart';
-import 'package:ebroker/ui/screens/widgets/promoted_widget.dart';
-import 'package:ebroker/utils/app_icons.dart';
-import 'package:ebroker/utils/custom_image.dart';
-import 'package:ebroker/utils/extensions/extensions.dart';
-import 'package:ebroker/utils/extensions/lib/custom_text.dart';
-import 'package:ebroker/utils/guest_checker.dart';
-import 'package:ebroker/utils/helper_utils.dart';
-import 'package:ebroker/utils/hive_utils.dart';
-import 'package:ebroker/utils/responsive_size.dart';
-import 'package:ebroker/utils/ui_utils.dart';
+import 'package:perfectshelter/app/routes.dart';
+import 'package:perfectshelter/data/helper/widgets.dart';
+import 'package:perfectshelter/data/model/agent/agents_properties_models/project_data.dart';
+import 'package:perfectshelter/data/repositories/check_package.dart';
+import 'package:perfectshelter/data/repositories/project_repository.dart';
+import 'package:perfectshelter/ui/screens/widgets/blurred_dialoge_box.dart';
+import 'package:perfectshelter/ui/screens/widgets/promoted_widget.dart';
+import 'package:perfectshelter/utils/app_icons.dart';
+import 'package:perfectshelter/utils/custom_image.dart';
+import 'package:perfectshelter/utils/extensions/extensions.dart';
+import 'package:perfectshelter/utils/extensions/lib/custom_text.dart';
+import 'package:perfectshelter/utils/guest_checker.dart';
+import 'package:perfectshelter/utils/helper_utils.dart';
+import 'package:perfectshelter/utils/hive_utils.dart';
+import 'package:perfectshelter/utils/responsive_size.dart';
+import 'package:perfectshelter/utils/ui_utils.dart';
 import 'package:flutter/material.dart';
 
 class AgentProjectCardBig extends StatelessWidget {

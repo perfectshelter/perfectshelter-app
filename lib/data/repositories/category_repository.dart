@@ -1,6 +1,6 @@
-import 'package:ebroker/data/model/category.dart';
-import 'package:ebroker/data/model/data_output.dart';
-import 'package:ebroker/utils/api.dart';
+import 'package:perfectshelter/data/model/category.dart';
+import 'package:perfectshelter/data/model/data_output.dart';
+import 'package:perfectshelter/utils/api.dart';
 
 class CategoryRepository {
   Future<DataOutput<Category>> fetchCategories({

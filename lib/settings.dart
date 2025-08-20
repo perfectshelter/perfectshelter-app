@@ -1,7 +1,7 @@
-import 'package:ebroker/data/model/languages_model.dart';
-import 'package:ebroker/utils/helper_utils.dart';
+import 'package:perfectshelter/data/model/languages_model.dart';
+import 'package:perfectshelter/utils/helper_utils.dart';
 
-/// eBroker configuration file
+/// Perfectshelter configuration file
 /// Configure your app from here
 /// Most of basic configuration will be from here
 /// For theme colors go to [lib/ui/Theme/theme.dart]
@@ -13,7 +13,7 @@ class AppSettings {
 
   ///API Setting
   static const String hostUrl = 'https://dev.perfectshelters.com/';
-  // ebroker.wrteam.me
+  // dev.perfectshelters.com
 
   static const int apiDataLoadLimit = 10;
   static const int maxCategoryShowLengthInHomeScreen = 5;
@@ -32,7 +32,7 @@ class AppSettings {
 
   ///Native deep link
   static const String shareNavigationWebUrl = 'dev.perfectshelters.com';
-  // ebrokerweb.wrteam.me
+  // dev.perfectshelters.com
 
   ///Firebase authentication OTP timer.
   static const int otpResendSecond = 120;

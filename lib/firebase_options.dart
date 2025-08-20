@@ -52,16 +52,16 @@ class DefaultFirebaseOptions {
     apiKey: 'YOUR_API_KEY',
     appId: '1:63168540332:android:8b13b90751cb235f623909',
     messagingSenderId: '63168540332',
-    projectId: 'ebroker-wrteam',
-    storageBucket: 'ebroker-wrteam.appspot.com',
+    projectId: 'perfect-shelter',
+    storageBucket: 'perfect-shelter.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'YOUR_API_KEY',
     appId: '1:63168540332:ios:0d980b41297ce2ef623909',
     messagingSenderId: '63168540332',
-    projectId: 'ebroker-wrteam',
-    storageBucket: 'ebroker-wrteam.appspot.com',
+    projectId: 'perfect-shelter',
+    storageBucket: 'perfect-shelter.appspot.com',
     androidClientId:
         '63168540332-bf5kqt19bbbq0ub3quibe67tfi7hjc1v.apps.googleusercontent.com',
     iosClientId:

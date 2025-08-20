@@ -1,5 +1,5 @@
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/admob/native_ad_manager.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/utils/admob/native_ad_manager.dart';
 
 abstract class HomePageInfinityScrollState {}
 

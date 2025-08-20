@@ -1,6 +1,6 @@
-import 'package:ebroker/app/register_cubits.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/chat/helpers/registerar.dart';
+import 'package:perfectshelter/app/register_cubits.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/chat/helpers/registerar.dart';
 
 /* ---------------
 **** V-1.2.5 ****

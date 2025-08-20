@@ -1,8 +1,8 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/model/category.dart' as c;
-import 'package:ebroker/data/model/project_model.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/category.dart' as c;
+import 'package:perfectshelter/data/model/project_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:flutter/material.dart';
 
 class ProjectMetaDetails extends StatefulWidget {

@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/mortgage_calculator_model.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/mortgage_calculator_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 class MortgageCalculatorRepository {
   Future<MortgageCalculatorModel> fetchMortgageCalculatorData({

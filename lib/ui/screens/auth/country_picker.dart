@@ -1,10 +1,10 @@
 // Country picker widget to encapsulate country selection functionality
-import 'package:ebroker/ui/screens/auth/login_screen.dart';
-import 'package:ebroker/utils/app_icons.dart';
-import 'package:ebroker/utils/custom_image.dart';
-import 'package:ebroker/utils/extensions/extensions.dart';
-import 'package:ebroker/utils/extensions/lib/custom_text.dart';
-import 'package:ebroker/utils/responsive_size.dart';
+import 'package:perfectshelter/ui/screens/auth/login_screen.dart';
+import 'package:perfectshelter/utils/app_icons.dart';
+import 'package:perfectshelter/utils/custom_image.dart';
+import 'package:perfectshelter/utils/extensions/extensions.dart';
+import 'package:perfectshelter/utils/extensions/lib/custom_text.dart';
+import 'package:perfectshelter/utils/responsive_size.dart';
 import 'package:flutter/material.dart';
 
 class CountryPickerWidget extends StatelessWidget {

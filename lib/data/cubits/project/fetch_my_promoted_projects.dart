@@ -1,7 +1,7 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/model/advertisement_model.dart';
-import 'package:ebroker/data/repositories/project_repository.dart';
+import 'package:perfectshelter/data/model/advertisement_model.dart';
+import 'package:perfectshelter/data/repositories/project_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class FetchMyPromotedProjectsState {}

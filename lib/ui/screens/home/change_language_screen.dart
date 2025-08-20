@@ -1,7 +1,7 @@
-import 'package:ebroker/data/cubits/fetch_home_page_data_cubit.dart';
-import 'package:ebroker/data/cubits/property/home_infinityscroll_cubit.dart';
-import 'package:ebroker/data/model/system_settings_model.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/cubits/fetch_home_page_data_cubit.dart';
+import 'package:perfectshelter/data/cubits/property/home_infinityscroll_cubit.dart';
+import 'package:perfectshelter/data/model/system_settings_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:flutter/material.dart';
 
 class LanguagesListScreen extends StatefulWidget {

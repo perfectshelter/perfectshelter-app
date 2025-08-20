@@ -1,8 +1,8 @@
-import 'package:ebroker/data/model/property_model.dart';
-import 'package:ebroker/data/repositories/property_repository.dart';
-import 'package:ebroker/ui/screens/proprties/view_all.dart';
-import 'package:ebroker/utils/hive_utils.dart';
-import 'package:ebroker/utils/network/cache_manger.dart';
+import 'package:perfectshelter/data/model/property_model.dart';
+import 'package:perfectshelter/data/repositories/property_repository.dart';
+import 'package:perfectshelter/ui/screens/proprties/view_all.dart';
+import 'package:perfectshelter/utils/hive_utils.dart';
+import 'package:perfectshelter/utils/network/cache_manger.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class FetchPromotedPropertiesState {}

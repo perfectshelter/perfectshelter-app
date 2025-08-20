@@ -1,10 +1,10 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/model/subscription_pacakage_model.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/payment/gatways/paypal.dart';
-import 'package:ebroker/utils/payment/lib/payment.dart';
-import 'package:ebroker/utils/payment/lib/purchase_package.dart';
+import 'package:perfectshelter/data/model/subscription_pacakage_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/utils/payment/gatways/paypal.dart';
+import 'package:perfectshelter/utils/payment/lib/payment.dart';
+import 'package:perfectshelter/utils/payment/lib/purchase_package.dart';
 
 class Paypal extends Payment {
   SubscriptionPackageModel? _modal;

@@ -1,7 +1,7 @@
-import 'package:ebroker/data/model/article_model.dart';
-import 'package:ebroker/data/model/data_output.dart';
-import 'package:ebroker/utils/api.dart';
-import 'package:ebroker/utils/constant.dart';
+import 'package:perfectshelter/data/model/article_model.dart';
+import 'package:perfectshelter/data/model/data_output.dart';
+import 'package:perfectshelter/utils/api.dart';
+import 'package:perfectshelter/utils/constant.dart';
 
 class ArticlesRepository {
   Future<DataOutput<ArticleModel>> fetchArticles({

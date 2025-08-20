@@ -1,11 +1,11 @@
-import 'package:ebroker/data/cubits/delete_advertisment_cubit.dart';
-import 'package:ebroker/data/cubits/project/fetch_my_promoted_projects.dart';
-import 'package:ebroker/data/cubits/property/fetch_my_promoted_propertys_cubit.dart';
-import 'package:ebroker/data/model/advertisement_model.dart';
-import 'package:ebroker/data/repositories/project_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/home/widgets/sell_rent_label.dart';
-import 'package:ebroker/ui/screens/widgets/promoted_widget.dart';
+import 'package:perfectshelter/data/cubits/delete_advertisment_cubit.dart';
+import 'package:perfectshelter/data/cubits/project/fetch_my_promoted_projects.dart';
+import 'package:perfectshelter/data/cubits/property/fetch_my_promoted_propertys_cubit.dart';
+import 'package:perfectshelter/data/model/advertisement_model.dart';
+import 'package:perfectshelter/data/repositories/project_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/home/widgets/sell_rent_label.dart';
+import 'package:perfectshelter/ui/screens/widgets/promoted_widget.dart';
 import 'package:flutter/material.dart';
 
 /// Base class for advertisement cards with common UI structure

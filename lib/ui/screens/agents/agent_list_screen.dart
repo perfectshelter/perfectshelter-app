@@ -1,7 +1,7 @@
-import 'package:ebroker/data/cubits/agents/fetch_agents_cubit.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/agents/cards/agent_card.dart';
-import 'package:ebroker/utils/sliver_grid_delegate_with_fixed_cross_axis_count_and_fixed_height.dart';
+import 'package:perfectshelter/data/cubits/agents/fetch_agents_cubit.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/agents/cards/agent_card.dart';
+import 'package:perfectshelter/utils/sliver_grid_delegate_with_fixed_cross_axis_count_and_fixed_height.dart';
 import 'package:flutter/material.dart';
 
 class AgentListScreen extends StatefulWidget {

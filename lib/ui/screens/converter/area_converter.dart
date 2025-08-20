@@ -1,5 +1,5 @@
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/area_calculator.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/utils/area_calculator.dart';
 import 'package:flutter/material.dart';
 
 class AreaCalculator extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:ebroker/data/model/translation_model.dart';
+import 'package:perfectshelter/data/model/translation_model.dart';
 
 class ProjectModel {
   ProjectModel({

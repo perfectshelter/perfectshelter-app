@@ -1,6 +1,6 @@
-import 'package:ebroker/data/helper/custom_exception.dart';
-import 'package:ebroker/data/model/company.dart';
-import 'package:ebroker/utils/api.dart';
+import 'package:perfectshelter/data/helper/custom_exception.dart';
+import 'package:perfectshelter/data/model/company.dart';
+import 'package:perfectshelter/utils/api.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class CompanyState {}

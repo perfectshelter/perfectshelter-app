@@ -1,8 +1,8 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:ebroker/data/model/subscription_pacakage_model.dart';
-import 'package:ebroker/utils/api.dart';
+import 'package:perfectshelter/data/model/subscription_pacakage_model.dart';
+import 'package:perfectshelter/utils/api.dart';
 
 class SubscriptionRepository {
   Future<PackageResponseModel> getSubscriptionPackages({

@@ -1,6 +1,6 @@
-import 'package:ebroker/data/cubits/agents/fetch_property_cubit.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/agents/cards/agent_property_card.dart';
+import 'package:perfectshelter/data/cubits/agents/fetch_property_cubit.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/agents/cards/agent_property_card.dart';
 
 class AgentProperties extends StatefulWidget {
   const AgentProperties({

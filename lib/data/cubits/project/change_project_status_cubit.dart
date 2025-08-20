@@ -1,4 +1,4 @@
-import 'package:ebroker/data/repositories/project_repository.dart';
+import 'package:perfectshelter/data/repositories/project_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class ChangeProjectStatusState {}

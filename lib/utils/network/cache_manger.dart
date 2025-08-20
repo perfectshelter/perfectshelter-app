@@ -2,7 +2,7 @@ import 'dart:ui';
 
 import 'package:connectivity_plus/connectivity_plus.dart';
 
-import 'package:ebroker/settings.dart';
+import 'package:perfectshelter/settings.dart';
 
 class CacheData {
   final Connectivity _connectivity = Connectivity();

@@ -1,7 +1,7 @@
-import 'package:ebroker/data/repositories/chat_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/chat/model/chat_message_model.dart';
-import 'package:ebroker/ui/screens/chat/widgets/message_renderer.dart';
+import 'package:perfectshelter/data/repositories/chat_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/chat/model/chat_message_model.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/message_renderer.dart';
 import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
 

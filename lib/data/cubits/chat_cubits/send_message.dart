@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:ebroker/data/repositories/chat_repository.dart';
-import 'package:ebroker/utils/api.dart';
+import 'package:perfectshelter/data/repositories/chat_repository.dart';
+import 'package:perfectshelter/utils/api.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:http_parser/http_parser.dart';
 

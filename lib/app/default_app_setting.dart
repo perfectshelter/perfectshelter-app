@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 AppSettingsDataModel fallbackSettingAppSettings = AppSettingsDataModel(
   appHomeScreen: AppIcons.fallbackHomeLogo,

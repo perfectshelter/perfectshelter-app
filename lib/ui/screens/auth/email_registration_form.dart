@@ -1,7 +1,7 @@
 import 'package:country_picker/country_picker.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/auth/country_picker.dart';
-import 'package:ebroker/utils/validator.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/auth/country_picker.dart';
+import 'package:perfectshelter/utils/validator.dart';
 import 'package:flutter/material.dart';
 
 class EmailRegistrationForm extends StatefulWidget {

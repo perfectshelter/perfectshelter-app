@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/subscription_pacakage_model.dart';
-import 'package:ebroker/data/repositories/subscription_repository.dart';
+import 'package:perfectshelter/data/model/subscription_pacakage_model.dart';
+import 'package:perfectshelter/data/repositories/subscription_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class FetchSubscriptionPackagesState {}

@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/notification_data.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/notification_data.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:flutter/material.dart';
 
 late NotificationData selectedNotification;

@@ -1,4 +1,4 @@
-import 'package:ebroker/data/model/category.dart';
+import 'package:perfectshelter/data/model/category.dart';
 
 class PropertiesData {
   const PropertiesData({

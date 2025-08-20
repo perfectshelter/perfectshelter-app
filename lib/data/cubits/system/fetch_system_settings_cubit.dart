@@ -1,9 +1,9 @@
-import 'package:ebroker/data/model/languages_model.dart';
-import 'package:ebroker/data/model/system_settings_model.dart';
-import 'package:ebroker/data/repositories/system_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/encryption/rsa.dart';
-import 'package:ebroker/utils/network/cache_manger.dart';
+import 'package:perfectshelter/data/model/languages_model.dart';
+import 'package:perfectshelter/data/model/system_settings_model.dart';
+import 'package:perfectshelter/data/repositories/system_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/utils/encryption/rsa.dart';
+import 'package:perfectshelter/utils/network/cache_manger.dart';
 
 abstract class FetchSystemSettingsState {}
 

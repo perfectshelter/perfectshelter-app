@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:ebroker/data/cubits/fetch_home_page_data_cubit.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/cubits/fetch_home_page_data_cubit.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 

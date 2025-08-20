@@ -1,6 +1,6 @@
-import 'package:ebroker/data/model/property_model.dart';
-import 'package:ebroker/data/repositories/favourites_repository.dart';
-import 'package:ebroker/utils/api.dart';
+import 'package:perfectshelter/data/model/property_model.dart';
+import 'package:perfectshelter/data/repositories/favourites_repository.dart';
+import 'package:perfectshelter/utils/api.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class FetchFavoritesState {}

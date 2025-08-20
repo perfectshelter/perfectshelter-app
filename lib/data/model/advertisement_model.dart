@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/project_model.dart';
-import 'package:ebroker/data/model/property_model.dart';
+import 'package:perfectshelter/data/model/project_model.dart';
+import 'package:perfectshelter/data/model/property_model.dart';
 
 class AdvertisementProperty {
   AdvertisementProperty({

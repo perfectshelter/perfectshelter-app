@@ -1,5 +1,5 @@
-import 'package:ebroker/data/repositories/interest_repository.dart';
-import 'package:ebroker/utils/constant.dart';
+import 'package:perfectshelter/data/repositories/interest_repository.dart';
+import 'package:perfectshelter/utils/constant.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 enum PropertyInterest {

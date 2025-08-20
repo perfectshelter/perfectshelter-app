@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:ebroker/data/model/project_model.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/project_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:flutter/material.dart';
 import 'package:open_filex/open_filex.dart';
 import 'package:url_launcher/url_launcher.dart';

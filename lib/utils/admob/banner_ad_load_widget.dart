@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 class BannerAdWidget extends StatefulWidget {
   const BannerAdWidget({super.key, this.bannerSize = AdSize.largeBanner});

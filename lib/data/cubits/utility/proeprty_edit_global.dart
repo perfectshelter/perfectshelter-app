@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/advertisement_model.dart';
-import 'package:ebroker/data/model/property_model.dart';
+import 'package:perfectshelter/data/model/advertisement_model.dart';
+import 'package:perfectshelter/data/model/property_model.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class PropertyEditGlobal {

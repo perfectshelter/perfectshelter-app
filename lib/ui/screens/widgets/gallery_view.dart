@@ -1,7 +1,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
-import 'package:ebroker/utils/admob/interstitial_ad_manager.dart';
-import 'package:ebroker/utils/custom_appbar.dart';
+import 'package:perfectshelter/utils/Extensions/extensions.dart';
+import 'package:perfectshelter/utils/admob/interstitial_ad_manager.dart';
+import 'package:perfectshelter/utils/custom_appbar.dart';
 import 'package:flutter/material.dart';
 
 class GalleryViewWidget extends StatefulWidget {

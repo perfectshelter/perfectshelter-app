@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'package:ebroker/utils/Extensions/extensions.dart';
-import 'package:ebroker/utils/app_icons.dart';
-import 'package:ebroker/utils/custom_image.dart';
+import 'package:perfectshelter/utils/Extensions/extensions.dart';
+import 'package:perfectshelter/utils/app_icons.dart';
+import 'package:perfectshelter/utils/custom_image.dart';
 import 'package:flutter/material.dart';
 import 'package:panorama_viewer/panorama_viewer.dart';
 

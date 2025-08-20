@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/notification_data.dart';
-import 'package:ebroker/data/repositories/notifications_repository_repository.dart';
+import 'package:perfectshelter/data/model/notification_data.dart';
+import 'package:perfectshelter/data/repositories/notifications_repository_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class FetchNotificationsState {}

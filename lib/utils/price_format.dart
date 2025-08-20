@@ -1,5 +1,5 @@
-import 'package:ebroker/settings.dart';
-import 'package:ebroker/utils/hive_utils.dart';
+import 'package:perfectshelter/settings.dart';
+import 'package:perfectshelter/utils/hive_utils.dart';
 import 'package:flutter/material.dart';
 
 extension StringPriceFormat on String {

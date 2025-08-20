@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:ebroker/app/app.dart';
-import 'package:ebroker/utils/ui_utils.dart';
+import 'package:perfectshelter/app/app.dart';
+import 'package:perfectshelter/utils/ui_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 

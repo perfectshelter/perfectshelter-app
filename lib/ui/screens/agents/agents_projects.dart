@@ -1,6 +1,6 @@
-import 'package:ebroker/data/cubits/agents/fetch_projects_cubit.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/agents/cards/agent_project_card.dart';
+import 'package:perfectshelter/data/cubits/agents/fetch_projects_cubit.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/agents/cards/agent_project_card.dart';
 // Import material.dart for ListView
 
 class AgentProjects extends StatefulWidget {

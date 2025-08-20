@@ -1,9 +1,9 @@
 import 'dart:developer';
 
 import 'package:dio/dio.dart';
-import 'package:ebroker/settings.dart';
-import 'package:ebroker/utils/api.dart';
-import 'package:ebroker/utils/payment/lib/payment.dart';
+import 'package:perfectshelter/settings.dart';
+import 'package:perfectshelter/utils/api.dart';
+import 'package:perfectshelter/utils/payment/lib/payment.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_stripe/flutter_stripe.dart';

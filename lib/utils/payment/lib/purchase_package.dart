@@ -1,7 +1,7 @@
-import 'package:ebroker/data/cubits/subscription/fetch_subscription_packages_cubit.dart';
-import 'package:ebroker/data/cubits/system/fetch_system_settings_cubit.dart';
-import 'package:ebroker/utils/helper_utils.dart';
-import 'package:ebroker/utils/ui_utils.dart';
+import 'package:perfectshelter/data/cubits/subscription/fetch_subscription_packages_cubit.dart';
+import 'package:perfectshelter/data/cubits/system/fetch_system_settings_cubit.dart';
+import 'package:perfectshelter/utils/helper_utils.dart';
+import 'package:perfectshelter/utils/ui_utils.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

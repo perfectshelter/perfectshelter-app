@@ -1,4 +1,4 @@
-import 'package:ebroker/data/model/subscription_pacakage_model.dart';
+import 'package:perfectshelter/data/model/subscription_pacakage_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 

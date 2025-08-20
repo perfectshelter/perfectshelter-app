@@ -1,4 +1,4 @@
-import 'package:ebroker/utils/Extensions/lib/map.dart';
+import 'package:perfectshelter/utils/Extensions/lib/map.dart';
 
 sealed class Filter {
   Map<String, dynamic> filter();

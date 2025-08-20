@@ -1,10 +1,10 @@
-import 'package:ebroker/data/cubits/report/fetch_property_report_reason_list.dart';
-import 'package:ebroker/data/cubits/report/property_report_cubit.dart';
-import 'package:ebroker/data/model/report_property/reason_model.dart';
-import 'package:ebroker/utils/Extensions/extensions.dart';
-import 'package:ebroker/utils/extensions/lib/custom_text.dart';
-import 'package:ebroker/utils/helper_utils.dart';
-import 'package:ebroker/utils/ui_utils.dart';
+import 'package:perfectshelter/data/cubits/report/fetch_property_report_reason_list.dart';
+import 'package:perfectshelter/data/cubits/report/property_report_cubit.dart';
+import 'package:perfectshelter/data/model/report_property/reason_model.dart';
+import 'package:perfectshelter/utils/Extensions/extensions.dart';
+import 'package:perfectshelter/utils/extensions/lib/custom_text.dart';
+import 'package:perfectshelter/utils/helper_utils.dart';
+import 'package:perfectshelter/utils/ui_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

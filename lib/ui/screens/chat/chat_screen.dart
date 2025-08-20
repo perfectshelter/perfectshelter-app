@@ -1,10 +1,10 @@
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/chat/helpers/chat_helpers.dart';
-import 'package:ebroker/ui/screens/chat/helpers/registerar.dart';
-import 'package:ebroker/ui/screens/chat/model/chat_message_model.dart';
-import 'package:ebroker/ui/screens/chat/widgets/chat_app_bar.dart';
-import 'package:ebroker/ui/screens/chat/widgets/chat_input_bar.dart';
-import 'package:ebroker/ui/screens/chat/widgets/message_renderer.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/chat/helpers/chat_helpers.dart';
+import 'package:perfectshelter/ui/screens/chat/helpers/registerar.dart';
+import 'package:perfectshelter/ui/screens/chat/model/chat_message_model.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/chat_app_bar.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/chat_input_bar.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/message_renderer.dart';
 import 'package:flutter/material.dart';
 
 int totalMessageCount = 0;

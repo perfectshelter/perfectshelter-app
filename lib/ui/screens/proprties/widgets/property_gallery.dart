@@ -1,7 +1,7 @@
-import 'package:ebroker/data/model/project_model.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/widgets/all_gallary_image.dart';
-import 'package:ebroker/ui/screens/widgets/video_view_screen.dart';
+import 'package:perfectshelter/data/model/project_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/widgets/all_gallary_image.dart';
+import 'package:perfectshelter/ui/screens/widgets/video_view_screen.dart';
 import 'package:flutter/material.dart';
 
 class PropertyGallery extends StatelessWidget {

@@ -1,9 +1,9 @@
 import 'package:dio/dio.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/chat/helpers/registerar.dart';
-import 'package:ebroker/ui/screens/chat/model/chat_message_model.dart';
-import 'package:ebroker/ui/screens/chat/widgets/audio_message.dart';
-import 'package:ebroker/utils/context_menu.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/chat/helpers/registerar.dart';
+import 'package:perfectshelter/ui/screens/chat/model/chat_message_model.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/audio_message.dart';
+import 'package:perfectshelter/utils/context_menu.dart';
 import 'package:flutter/material.dart';
 import 'package:open_filex/open_filex.dart';
 

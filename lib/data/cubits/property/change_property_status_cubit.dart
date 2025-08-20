@@ -1,4 +1,4 @@
-import 'package:ebroker/data/repositories/property_repository.dart';
+import 'package:perfectshelter/data/repositories/property_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class ChangePropertyStatusState {}

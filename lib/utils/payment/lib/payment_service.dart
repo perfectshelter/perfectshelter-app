@@ -1,8 +1,8 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/model/subscription_pacakage_model.dart';
-import 'package:ebroker/utils/payment/lib/gatway.dart';
-import 'package:ebroker/utils/payment/lib/payment.dart';
+import 'package:perfectshelter/data/model/subscription_pacakage_model.dart';
+import 'package:perfectshelter/utils/payment/lib/gatway.dart';
+import 'package:perfectshelter/utils/payment/lib/payment.dart';
 import 'package:flutter/cupertino.dart';
 
 ///This is wrapper class to execute Payment inherited classes.

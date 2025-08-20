@@ -1,11 +1,11 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/model/subscription_pacakage_model.dart';
-import 'package:ebroker/settings.dart';
-import 'package:ebroker/utils/hive_utils.dart';
-import 'package:ebroker/utils/payment/gatways/stripe_service.dart';
-import 'package:ebroker/utils/payment/lib/payment.dart';
-import 'package:ebroker/utils/payment/lib/purchase_package.dart';
+import 'package:perfectshelter/data/model/subscription_pacakage_model.dart';
+import 'package:perfectshelter/settings.dart';
+import 'package:perfectshelter/utils/hive_utils.dart';
+import 'package:perfectshelter/utils/payment/gatways/stripe_service.dart';
+import 'package:perfectshelter/utils/payment/lib/payment.dart';
+import 'package:perfectshelter/utils/payment/lib/purchase_package.dart';
 import 'package:flutter/cupertino.dart';
 
 class Stripe extends Payment {

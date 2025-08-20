@@ -1,13 +1,13 @@
 import 'dart:developer';
 
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/chat/model/chat_message_model.dart';
-import 'package:ebroker/ui/screens/chat/widgets/audio_message.dart';
-import 'package:ebroker/ui/screens/chat/widgets/message_renderer.dart';
-import 'package:ebroker/ui/screens/chat/widgets/message_types/file_message.dart';
-import 'package:ebroker/ui/screens/chat/widgets/message_types/image_message.dart';
-import 'package:ebroker/ui/screens/chat/widgets/message_types/text_and_file.dart';
-import 'package:ebroker/ui/screens/chat/widgets/message_types/text_message.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/chat/model/chat_message_model.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/audio_message.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/message_renderer.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/message_types/file_message.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/message_types/image_message.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/message_types/text_and_file.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/message_types/text_message.dart';
 
 class MessageType {
   final List<ChatMessage> _messageTypes = [

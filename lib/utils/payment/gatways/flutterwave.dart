@@ -1,10 +1,10 @@
 //
 // ignore_for_file: depend_on_referenced_packages, unawaited_futures
 
-import 'package:ebroker/data/cubits/subscription/flutterwave_cubit.dart';
-import 'package:ebroker/data/model/subscription_pacakage_model.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/payment/lib/payment.dart';
+import 'package:perfectshelter/data/cubits/subscription/flutterwave_cubit.dart';
+import 'package:perfectshelter/data/model/subscription_pacakage_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/utils/payment/lib/payment.dart';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 import 'package:webview_flutter_android/webview_flutter_android.dart';

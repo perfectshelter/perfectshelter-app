@@ -1,10 +1,10 @@
-import 'package:ebroker/data/cubits/property/fetch_compare_properties_cubit.dart';
-import 'package:ebroker/data/repositories/check_package.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/home/widgets/sell_rent_label.dart';
-import 'package:ebroker/ui/screens/widgets/like_button_widget.dart';
-import 'package:ebroker/ui/screens/widgets/promoted_widget.dart';
-import 'package:ebroker/utils/price_format.dart';
+import 'package:perfectshelter/data/cubits/property/fetch_compare_properties_cubit.dart';
+import 'package:perfectshelter/data/repositories/check_package.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/home/widgets/sell_rent_label.dart';
+import 'package:perfectshelter/ui/screens/widgets/like_button_widget.dart';
+import 'package:perfectshelter/ui/screens/widgets/promoted_widget.dart';
+import 'package:perfectshelter/utils/price_format.dart';
 
 class PropertyCardBig extends StatelessWidget {
   const PropertyCardBig({

@@ -1,10 +1,10 @@
-import 'package:ebroker/data/cubits/interested/get_interested_user_cubit.dart';
-import 'package:ebroker/data/model/interested_user_model.dart';
-import 'package:ebroker/utils/constant.dart';
-import 'package:ebroker/utils/custom_image.dart';
-import 'package:ebroker/utils/extensions/extensions.dart';
-import 'package:ebroker/utils/extensions/lib/custom_text.dart';
-import 'package:ebroker/utils/ui_utils.dart';
+import 'package:perfectshelter/data/cubits/interested/get_interested_user_cubit.dart';
+import 'package:perfectshelter/data/model/interested_user_model.dart';
+import 'package:perfectshelter/utils/constant.dart';
+import 'package:perfectshelter/utils/custom_image.dart';
+import 'package:perfectshelter/utils/extensions/extensions.dart';
+import 'package:perfectshelter/utils/extensions/lib/custom_text.dart';
+import 'package:perfectshelter/utils/ui_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:url_launcher/url_launcher.dart';

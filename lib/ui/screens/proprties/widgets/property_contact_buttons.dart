@@ -1,8 +1,8 @@
 import 'dart:developer';
 
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/chat/chat_screen.dart';
-import 'package:ebroker/utils/network/network_availability.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/chat/chat_screen.dart';
+import 'package:perfectshelter/utils/network/network_availability.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class PropertyContactButtons extends StatelessWidget {

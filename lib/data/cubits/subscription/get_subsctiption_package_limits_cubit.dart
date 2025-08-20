@@ -1,5 +1,5 @@
-import 'package:ebroker/data/repositories/check_package.dart';
-import 'package:ebroker/data/repositories/subscription_repository.dart';
+import 'package:perfectshelter/data/repositories/check_package.dart';
+import 'package:perfectshelter/data/repositories/subscription_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class GetSubscriptionPackageLimitsState {}

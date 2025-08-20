@@ -64,9 +64,9 @@ counter=0
 while [[ -e "$destination_folder$filename" ]]; do
 
       if [ "$counter" -eq 0 ]; then
-    filename="eBroker ${current_date}.apk"
+    filename="Perfectshelter ${current_date}.apk"
         else
-  filename="eBroker ${current_date} (${counter}).apk"
+  filename="Perfectshelter ${current_date} (${counter}).apk"
           fi
     ((counter++))
 done

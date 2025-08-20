@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/outdoor_facility.dart';
-import 'package:ebroker/utils/api.dart';
+import 'package:perfectshelter/data/model/outdoor_facility.dart';
+import 'package:perfectshelter/utils/api.dart';
 
 class OutdoorFacilityRepository {
   Future<List<OutdoorFacility>> fetchOutdoorFacilityList() async {

@@ -1,8 +1,8 @@
-import 'package:ebroker/ui/screens/home/home_screen.dart';
-import 'package:ebroker/ui/screens/widgets/custom_shimmer.dart';
-import 'package:ebroker/utils/constant.dart';
-import 'package:ebroker/utils/extensions/extensions.dart';
-import 'package:ebroker/utils/responsive_size.dart';
+import 'package:perfectshelter/ui/screens/home/home_screen.dart';
+import 'package:perfectshelter/ui/screens/widgets/custom_shimmer.dart';
+import 'package:perfectshelter/utils/constant.dart';
+import 'package:perfectshelter/utils/extensions/extensions.dart';
+import 'package:perfectshelter/utils/responsive_size.dart';
 import 'package:flutter/material.dart';
 
 class HomeShimmer extends StatefulWidget {

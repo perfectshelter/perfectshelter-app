@@ -1,6 +1,6 @@
-import 'package:ebroker/data/model/agent/agents_property_model.dart';
-import 'package:ebroker/data/repositories/agents_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/agent/agents_property_model.dart';
+import 'package:perfectshelter/data/repositories/agents_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 abstract class FetchAgentsProjectState {}
 

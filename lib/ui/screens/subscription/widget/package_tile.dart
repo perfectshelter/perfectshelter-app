@@ -1,9 +1,9 @@
 import 'package:dio/dio.dart';
-import 'package:ebroker/data/model/subscription_pacakage_model.dart';
-import 'package:ebroker/data/repositories/subscription_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/payment/in_app_purchase/in_app_purchase_manager.dart';
-import 'package:ebroker/utils/price_format.dart';
+import 'package:perfectshelter/data/model/subscription_pacakage_model.dart';
+import 'package:perfectshelter/data/repositories/subscription_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/utils/payment/in_app_purchase/in_app_purchase_manager.dart';
+import 'package:perfectshelter/utils/price_format.dart';
 import 'package:flutter/material.dart';
 
 class SubscriptionPackageTile extends StatefulWidget {

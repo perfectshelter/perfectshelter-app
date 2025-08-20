@@ -1,7 +1,7 @@
-import 'package:ebroker/data/model/languages_model.dart';
-import 'package:ebroker/data/model/propery_filter_model.dart';
-import 'package:ebroker/data/model/system_settings_model.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/languages_model.dart';
+import 'package:perfectshelter/data/model/propery_filter_model.dart';
+import 'package:perfectshelter/data/model/system_settings_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 const String svgPath = 'assets/svg/';
 

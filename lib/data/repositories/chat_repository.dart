@@ -1,11 +1,11 @@
 import 'package:dio/dio.dart';
-import 'package:ebroker/data/model/chat/chated_user_model.dart';
-import 'package:ebroker/data/model/data_output.dart';
-import 'package:ebroker/ui/screens/chat/helpers/registerar.dart';
-import 'package:ebroker/ui/screens/chat/model/chat_message_model.dart';
-import 'package:ebroker/utils/api.dart';
-import 'package:ebroker/utils/constant.dart';
-import 'package:ebroker/utils/hive_utils.dart';
+import 'package:perfectshelter/data/model/chat/chated_user_model.dart';
+import 'package:perfectshelter/data/model/data_output.dart';
+import 'package:perfectshelter/ui/screens/chat/helpers/registerar.dart';
+import 'package:perfectshelter/ui/screens/chat/model/chat_message_model.dart';
+import 'package:perfectshelter/utils/api.dart';
+import 'package:perfectshelter/utils/constant.dart';
+import 'package:perfectshelter/utils/hive_utils.dart';
 import 'package:flutter/material.dart';
 
 class ChatRepository {

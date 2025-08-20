@@ -1,5 +1,5 @@
-import 'package:ebroker/data/repositories/auth_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/repositories/auth_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 abstract class VerifyOtpState {}

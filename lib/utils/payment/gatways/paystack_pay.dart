@@ -1,10 +1,10 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/model/subscription_pacakage_model.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/payment/gatways/paystack.dart';
-import 'package:ebroker/utils/payment/lib/payment.dart';
-import 'package:ebroker/utils/payment/lib/purchase_package.dart';
+import 'package:perfectshelter/data/model/subscription_pacakage_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/utils/payment/gatways/paystack.dart';
+import 'package:perfectshelter/utils/payment/lib/payment.dart';
+import 'package:perfectshelter/utils/payment/lib/purchase_package.dart';
 
 class Paystack extends Payment {
   SubscriptionPackageModel? _modal;
@@ -107,11 +107,11 @@ class Paystack extends Payment {
 // import 'dart:developer';
 // import 'dart:io';
 //
-// import 'package:ebroker/data/model/subscription_pacakage_model.dart';
-// import 'package:ebroker/utils/helper_utils.dart';
-// import 'package:ebroker/utils/payment/lib/payment.dart';
-// import 'package:ebroker/utils/payment/lib/purchase_package.dart';
-// import 'package:ebroker/utils/ui_utils.dart';
+// import 'package:perfectshelter/data/model/subscription_pacakage_model.dart';
+// import 'package:perfectshelter/utils/helper_utils.dart';
+// import 'package:perfectshelter/utils/payment/lib/payment.dart';
+// import 'package:perfectshelter/utils/payment/lib/purchase_package.dart';
+// import 'package:perfectshelter/utils/ui_utils.dart';
 // import 'package:flutter/material.dart';
 //
 // class Paystack extends Payment {

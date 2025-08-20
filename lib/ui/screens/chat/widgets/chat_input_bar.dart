@@ -1,9 +1,9 @@
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/chat/helpers/attachment.dart';
-import 'package:ebroker/ui/screens/chat/helpers/chat_helpers.dart';
-import 'package:ebroker/ui/screens/chat/helpers/registerar.dart';
-import 'package:ebroker/ui/screens/chat/widgets/message_renderer.dart';
-import 'package:ebroker/ui/screens/chat/widgets/record_button.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/chat/helpers/attachment.dart';
+import 'package:perfectshelter/ui/screens/chat/helpers/chat_helpers.dart';
+import 'package:perfectshelter/ui/screens/chat/helpers/registerar.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/message_renderer.dart';
+import 'package:perfectshelter/ui/screens/chat/widgets/record_button.dart';
 import 'package:flutter/material.dart';
 
 class ChatInputBar extends StatefulWidget {

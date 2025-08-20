@@ -1,13 +1,13 @@
 import 'package:country_picker/country_picker.dart';
-import 'package:ebroker/data/model/system_settings_model.dart';
-import 'package:ebroker/data/repositories/auth_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/auth/country_picker.dart';
-import 'package:ebroker/ui/screens/home/home_screen.dart';
-import 'package:ebroker/utils/login/apple_login/apple_login.dart';
-import 'package:ebroker/utils/login/google_login/google_login.dart';
-import 'package:ebroker/utils/login/lib/login_status.dart';
-import 'package:ebroker/utils/login/lib/login_system.dart';
+import 'package:perfectshelter/data/model/system_settings_model.dart';
+import 'package:perfectshelter/data/repositories/auth_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/auth/country_picker.dart';
+import 'package:perfectshelter/ui/screens/home/home_screen.dart';
+import 'package:perfectshelter/utils/login/apple_login/apple_login.dart';
+import 'package:perfectshelter/utils/login/google_login/google_login.dart';
+import 'package:perfectshelter/utils/login/lib/login_status.dart';
+import 'package:perfectshelter/utils/login/lib/login_system.dart';
 import 'package:flutter/material.dart';
 import 'package:sms_autofill/sms_autofill.dart';
 

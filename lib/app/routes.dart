@@ -1,16 +1,16 @@
 import 'dart:developer';
 
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/advertisement/my_advertisment_screen.dart';
-import 'package:ebroker/ui/screens/agents/agent_details_screen.dart';
-import 'package:ebroker/ui/screens/agents/agent_list_screen.dart';
-import 'package:ebroker/ui/screens/agents/agent_verification_form.dart';
-import 'package:ebroker/ui/screens/auth/email_registration_form.dart';
-import 'package:ebroker/ui/screens/auth/otp_screen.dart';
-import 'package:ebroker/ui/screens/home/home_screen.dart';
-import 'package:ebroker/ui/screens/home/widgets/city_list_screen.dart';
-import 'package:ebroker/ui/screens/proprties/widgets/compare_property_screen.dart';
-import 'package:ebroker/ui/screens/settings/faqs_screen.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/advertisement/my_advertisment_screen.dart';
+import 'package:perfectshelter/ui/screens/agents/agent_details_screen.dart';
+import 'package:perfectshelter/ui/screens/agents/agent_list_screen.dart';
+import 'package:perfectshelter/ui/screens/agents/agent_verification_form.dart';
+import 'package:perfectshelter/ui/screens/auth/email_registration_form.dart';
+import 'package:perfectshelter/ui/screens/auth/otp_screen.dart';
+import 'package:perfectshelter/ui/screens/home/home_screen.dart';
+import 'package:perfectshelter/ui/screens/home/widgets/city_list_screen.dart';
+import 'package:perfectshelter/ui/screens/proprties/widgets/compare_property_screen.dart';
+import 'package:perfectshelter/ui/screens/settings/faqs_screen.dart';
 
 class Routes {
   //private constructor

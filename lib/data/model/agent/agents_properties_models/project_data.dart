@@ -1,6 +1,6 @@
-import 'package:ebroker/data/model/agent/agents_properties_models/gallary_images.dart';
-import 'package:ebroker/data/model/category.dart';
-import 'package:ebroker/utils/admob/native_ad_manager.dart';
+import 'package:perfectshelter/data/model/agent/agents_properties_models/gallary_images.dart';
+import 'package:perfectshelter/data/model/category.dart';
+import 'package:perfectshelter/utils/admob/native_ad_manager.dart';
 
 class ProjectData implements NativeAdWidgetContainer {
   const ProjectData({

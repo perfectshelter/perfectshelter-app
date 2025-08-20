@@ -1,11 +1,11 @@
 import 'dart:developer';
 
 import 'package:country_picker/country_picker.dart';
-import 'package:ebroker/data/cubits/auth/get_user_data_cubit.dart';
-import 'package:ebroker/data/model/user_model.dart';
-import 'package:ebroker/data/repositories/auth_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/widgets/image_cropper.dart';
+import 'package:perfectshelter/data/cubits/auth/get_user_data_cubit.dart';
+import 'package:perfectshelter/data/model/user_model.dart';
+import 'package:perfectshelter/data/repositories/auth_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/widgets/image_cropper.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:image_cropper/image_cropper.dart';

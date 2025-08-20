@@ -1,5 +1,5 @@
-import 'package:ebroker/data/cubits/fetch_single_article_cubit.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/cubits/fetch_single_article_cubit.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:flutter/material.dart';
 
 class ArticleDetails extends StatefulWidget {

@@ -1,6 +1,6 @@
-import 'package:ebroker/data/model/mortgage_calculator_model.dart';
-import 'package:ebroker/data/repositories/mortgage_calculator_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/mortgage_calculator_model.dart';
+import 'package:perfectshelter/data/repositories/mortgage_calculator_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 abstract class MortgageCalculatorState {}
 

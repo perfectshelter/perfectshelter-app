@@ -1,7 +1,7 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/cubits/subscription/assign_package.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/cubits/subscription/assign_package.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 
 class InAppPurchaseManager {

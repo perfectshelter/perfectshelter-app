@@ -1,7 +1,7 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/model/property_model.dart';
-import 'package:ebroker/data/repositories/property_repository.dart';
+import 'package:perfectshelter/data/model/property_model.dart';
+import 'package:perfectshelter/data/repositories/property_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class CreatePropertyState {}

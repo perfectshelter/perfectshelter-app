@@ -1,5 +1,5 @@
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/home/widgets/project_card_horizontal.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/home/widgets/project_card_horizontal.dart';
 import 'package:flutter/material.dart';
 
 class AllProjectsScreen extends StatefulWidget {

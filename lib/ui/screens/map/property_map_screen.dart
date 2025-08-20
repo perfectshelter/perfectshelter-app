@@ -1,5 +1,5 @@
-import 'package:ebroker/data/repositories/map.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/repositories/map.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:flutter/material.dart';
 
 class PropertyMapScreen extends StatefulWidget {

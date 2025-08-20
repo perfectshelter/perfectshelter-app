@@ -1,7 +1,7 @@
-import 'package:ebroker/data/cubits/fetch_single_article_cubit.dart';
-import 'package:ebroker/data/model/article_model.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/home/widgets/custom_refresh_indicator.dart';
+import 'package:perfectshelter/data/cubits/fetch_single_article_cubit.dart';
+import 'package:perfectshelter/data/model/article_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/home/widgets/custom_refresh_indicator.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_html/flutter_html.dart' show Html;
 

@@ -1,10 +1,10 @@
-import 'package:ebroker/data/model/agent/agent_model.dart';
-import 'package:ebroker/data/model/agent/agent_verification_form_fields_model.dart';
-import 'package:ebroker/data/model/agent/agent_verification_form_values_model.dart';
-import 'package:ebroker/data/model/agent/agents_property_model.dart';
-import 'package:ebroker/data/model/data_output.dart';
-import 'package:ebroker/utils/api.dart';
-import 'package:ebroker/utils/constant.dart';
+import 'package:perfectshelter/data/model/agent/agent_model.dart';
+import 'package:perfectshelter/data/model/agent/agent_verification_form_fields_model.dart';
+import 'package:perfectshelter/data/model/agent/agent_verification_form_values_model.dart';
+import 'package:perfectshelter/data/model/agent/agents_property_model.dart';
+import 'package:perfectshelter/data/model/data_output.dart';
+import 'package:perfectshelter/utils/api.dart';
+import 'package:perfectshelter/utils/constant.dart';
 
 class AgentsRepository {
   Future<DataOutput<AgentModel>> fetchAllAgents({

@@ -1,9 +1,9 @@
-import 'package:ebroker/data/cubits/utility/mortgage_calculator_cubit.dart';
-import 'package:ebroker/data/repositories/check_package.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/proprties/widgets/donut_chart.dart';
-import 'package:ebroker/ui/screens/proprties/widgets/yearly_breakdown_screen.dart';
-import 'package:ebroker/utils/price_format.dart';
+import 'package:perfectshelter/data/cubits/utility/mortgage_calculator_cubit.dart';
+import 'package:perfectshelter/data/repositories/check_package.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/proprties/widgets/donut_chart.dart';
+import 'package:perfectshelter/ui/screens/proprties/widgets/yearly_breakdown_screen.dart';
+import 'package:perfectshelter/utils/price_format.dart';
 import 'package:flutter/material.dart';
 
 class MortgageCalculator extends StatefulWidget {

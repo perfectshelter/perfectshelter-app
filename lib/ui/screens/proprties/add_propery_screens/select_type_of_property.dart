@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/category.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/category.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:flutter/material.dart';
 
 enum PropertyAddType { project, property }

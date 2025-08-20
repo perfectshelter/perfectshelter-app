@@ -1,4 +1,4 @@
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 import 'package:url_launcher/url_launcher.dart' as urllauncher;
 
 class PropertyParametersGrid extends StatelessWidget {

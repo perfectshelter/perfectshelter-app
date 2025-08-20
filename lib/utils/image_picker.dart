@@ -2,8 +2,8 @@ import 'dart:async';
 import 'dart:developer';
 import 'dart:io';
 
-import 'package:ebroker/utils/constant.dart';
-import 'package:ebroker/utils/helper_utils.dart';
+import 'package:perfectshelter/utils/constant.dart';
+import 'package:perfectshelter/utils/helper_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 

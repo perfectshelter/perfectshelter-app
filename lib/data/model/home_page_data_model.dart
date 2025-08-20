@@ -1,11 +1,11 @@
-import 'package:ebroker/data/model/agent/agent_model.dart';
-import 'package:ebroker/data/model/article_model.dart';
-import 'package:ebroker/data/model/category.dart';
-import 'package:ebroker/data/model/city_model.dart';
-import 'package:ebroker/data/model/home_slider.dart';
-import 'package:ebroker/data/model/project_model.dart';
-import 'package:ebroker/data/model/property_model.dart';
-import 'package:ebroker/utils/admob/native_ad_manager.dart';
+import 'package:perfectshelter/data/model/agent/agent_model.dart';
+import 'package:perfectshelter/data/model/article_model.dart';
+import 'package:perfectshelter/data/model/category.dart';
+import 'package:perfectshelter/data/model/city_model.dart';
+import 'package:perfectshelter/data/model/home_slider.dart';
+import 'package:perfectshelter/data/model/project_model.dart';
+import 'package:perfectshelter/data/model/property_model.dart';
+import 'package:perfectshelter/utils/admob/native_ad_manager.dart';
 
 class HomePageDataModel implements NativeAdWidgetContainer {
   const HomePageDataModel({

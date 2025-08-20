@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
-import 'package:ebroker/data/model/google_place_model.dart';
-import 'package:ebroker/utils/api.dart';
-import 'package:ebroker/utils/constant.dart';
+import 'package:perfectshelter/data/model/google_place_model.dart';
+import 'package:perfectshelter/utils/api.dart';
+import 'package:perfectshelter/utils/constant.dart';
 
 final String demoPlaceApiKey = Constant.googlePlaceAPIkey;
 

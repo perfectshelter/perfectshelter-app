@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/google_place_model.dart';
-import 'package:ebroker/data/repositories/location_repository.dart';
+import 'package:perfectshelter/data/model/google_place_model.dart';
+import 'package:perfectshelter/data/repositories/location_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class GooglePlaceAutocompleteState {}

@@ -1,7 +1,7 @@
-import 'package:ebroker/data/model/agent/agents_properties_models/customer_data.dart';
-import 'package:ebroker/data/model/agent/agents_properties_models/project_data.dart';
-import 'package:ebroker/data/model/agent/agents_properties_models/properties_data.dart';
-import 'package:ebroker/utils/admob/native_ad_manager.dart';
+import 'package:perfectshelter/data/model/agent/agents_properties_models/customer_data.dart';
+import 'package:perfectshelter/data/model/agent/agents_properties_models/project_data.dart';
+import 'package:perfectshelter/data/model/agent/agents_properties_models/properties_data.dart';
+import 'package:perfectshelter/utils/admob/native_ad_manager.dart';
 
 class AgentPropertyProjectModel implements NativeAdWidgetContainer {
   const AgentPropertyProjectModel({

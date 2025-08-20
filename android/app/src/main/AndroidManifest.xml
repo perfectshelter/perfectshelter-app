@@ -31,7 +31,7 @@
     </intent>
 </queries>
    <application
-        android:label="eBroker"
+        android:label="Perfectshelter"
         android:requestLegacyExternalStorage="true"
         android:largeHeap="true"
         android:name="${applicationName}"
@@ -73,11 +73,11 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data
-                    android:scheme="ebroker"
-                    android:host="ebrokerweb.wrteam.me"/>
+                    android:scheme="perfectshelter"
+                    android:host="dev.perfectshelters.com"/>
                 <data
-                    android:scheme="ebroker"
-                    android:host="ebroker.wrteam.me"/>
+                    android:scheme="perfectshelter"
+                    android:host="dev.perfectshelters.com"/>
             </intent-filter>
 
             <intent-filter>

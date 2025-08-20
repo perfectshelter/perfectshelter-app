@@ -1,5 +1,5 @@
-import 'package:ebroker/data/repositories/subscription_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/repositories/subscription_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 abstract class AssignInAppPackageState {}
 

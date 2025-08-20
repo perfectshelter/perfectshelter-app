@@ -1,7 +1,7 @@
-import 'package:ebroker/data/model/interested_user_model.dart';
-import 'package:ebroker/data/repositories/interest_repository.dart';
+import 'package:perfectshelter/data/model/interested_user_model.dart';
+import 'package:perfectshelter/data/repositories/interest_repository.dart';
 
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 class GetInterestedUserState {}
 

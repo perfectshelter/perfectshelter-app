@@ -1,8 +1,8 @@
 import 'dart:math';
 
 import 'package:awesome_notifications/awesome_notifications.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/chat/chat_screen.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/chat/chat_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class NotificationService {

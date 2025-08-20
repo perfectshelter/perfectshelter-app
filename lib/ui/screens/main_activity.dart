@@ -1,12 +1,12 @@
 import 'dart:math';
 
-import 'package:ebroker/data/model/system_settings_model.dart';
-import 'package:ebroker/data/repositories/check_package.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/ui/screens/chat/chat_list_screen.dart';
-import 'package:ebroker/ui/screens/home/home_screen.dart';
-import 'package:ebroker/ui/screens/proprties/my_properties_screen.dart';
-import 'package:ebroker/ui/screens/userprofile/profile_screen.dart';
+import 'package:perfectshelter/data/model/system_settings_model.dart';
+import 'package:perfectshelter/data/repositories/check_package.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/ui/screens/chat/chat_list_screen.dart';
+import 'package:perfectshelter/ui/screens/home/home_screen.dart';
+import 'package:perfectshelter/ui/screens/proprties/my_properties_screen.dart';
+import 'package:perfectshelter/ui/screens/userprofile/profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:package_info_plus/package_info_plus.dart';

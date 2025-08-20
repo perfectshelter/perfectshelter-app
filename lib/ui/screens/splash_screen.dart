@@ -1,9 +1,9 @@
 import 'dart:developer';
 import 'package:connectivity_plus/connectivity_plus.dart';
-import 'package:ebroker/data/model/system_settings_model.dart';
-import 'package:ebroker/data/repositories/system_repository.dart';
-import 'package:ebroker/exports/main_export.dart';
-import 'package:ebroker/utils/hive_keys.dart';
+import 'package:perfectshelter/data/model/system_settings_model.dart';
+import 'package:perfectshelter/data/repositories/system_repository.dart';
+import 'package:perfectshelter/exports/main_export.dart';
+import 'package:perfectshelter/utils/hive_keys.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';

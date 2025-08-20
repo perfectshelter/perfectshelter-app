@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:ebroker/data/model/translation_model.dart';
-import 'package:ebroker/utils/admob/native_ad_manager.dart';
+import 'package:perfectshelter/data/model/translation_model.dart';
+import 'package:perfectshelter/utils/admob/native_ad_manager.dart';
 import 'package:flutter/foundation.dart';
 
 class PropertyModel implements NativeAdWidgetContainer {

@@ -1,8 +1,8 @@
 import 'dart:developer';
 
-import 'package:ebroker/data/model/report_property/reason_model.dart';
-import 'package:ebroker/data/repositories/report_property_repository.dart';
-import 'package:ebroker/settings.dart';
+import 'package:perfectshelter/data/model/report_property/reason_model.dart';
+import 'package:perfectshelter/data/repositories/report_property_repository.dart';
+import 'package:perfectshelter/settings.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class FetchPropertyReportReasonsListState {}

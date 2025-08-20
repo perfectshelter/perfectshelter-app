@@ -1,5 +1,5 @@
-import 'package:ebroker/data/model/facilities_model.dart';
-import 'package:ebroker/exports/main_export.dart';
+import 'package:perfectshelter/data/model/facilities_model.dart';
+import 'package:perfectshelter/exports/main_export.dart';
 
 class FacilitiesRepository {
   Future<List<FacilitiesModel>> fetchFacilities() async {
